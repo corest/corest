@@ -1,6 +1,6 @@
 # Volodymyr Stoiko
 
-_Site reliability engineer with >10 years experience building highly scalable distributed systems.
+_Site reliability engineer with >10 years of experience building highly scalable distributed systems.
 Based in Lviv, Ukraine_ 
 
 Currently - magician @ [Giant Swarm](https://www.giantswarm.io/)
