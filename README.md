@@ -1,9 +1,9 @@
 # Volodymyr Stoiko
 
-_Site reliability engineer with >10 years of experience building highly scalable distributed systems.
+_Site reliability engineer with >12 years of experience building highly scalable distributed systems.
 Based in Lviv, Ukraine_ 
 
-Currently - magician @ [Giant Swarm](https://www.giantswarm.io/)
+Currently pushing enterprise infrastructure into the CloudNative world.
 Building cloud-native platform wrapped in a managed service.
   - Development of the Managed Kubernetes in AWS/Azure/On-prem envs
   - Design, configuration, build, and maintenance of the core infrastructure
